@@ -47,7 +47,7 @@ body {
 .navbar-brand {
     float: left;
     height: 50px;
-    padding: 10px 0px;
+    padding: 10px 0;
     font-size: 18px;
     line-height: 20px;
 }
@@ -107,7 +107,7 @@ body {
     transition: all 200ms linear;
 }
 .nav-item:hover .nav-link{
-    color: #DB6640 !important;
+    color: #F69513 !important;
 }
 .nav-item.active .nav-link{
     color: #777 !important;
@@ -124,7 +124,7 @@ body {
     width: 100%;
     height: 2px;
     content: '';
-    background-color: #DB6640;
+    background-color: #F69513;
     opacity: 0;
     transition: all 200ms linear;
 }
@@ -181,7 +181,7 @@ body {
 .dropdown-item:hover,
 .dropdown-item:focus {
     color: #fff;
-    background-color: #DB6640;
+    background-color: #F69513;
 }
 
 @media (max-width: 767px) {
@@ -309,7 +309,7 @@ body {
 }
 
 .banner .btn-1 .myButton {
-    background-color:#DB6640;
+    background-color:#F69513;
     border-radius: 4px;
     display:inline-block;
     cursor:pointer;
@@ -382,7 +382,7 @@ body {
 }
 
 .strategy .icon-top {
-    background-color: #FFD5C7;
+    background-color: #E6E6E6;
     position: relative;
     display: inline-flex;
     justify-content: center;
