@@ -392,7 +392,7 @@ body.dark .logo img {
 @media (min-width: 1200px) {
     .banner {
         width: 1170px;
-        padding-top: 14rem;
+        padding-top: 10rem;
     }
 }
 
@@ -554,7 +554,7 @@ body.dark .logo img {
 
 .services .content-sections {
     margin-bottom: 6.25rem;
-    margin-top: 20.25rem;
+    margin-top: 15.25rem;
 }
 
 .services .background-services {
